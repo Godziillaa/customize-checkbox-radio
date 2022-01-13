@@ -5,3 +5,6 @@
 CSS伪元素选择器'::before'和'::after'
 CSS伪类选择器':checked'和':disabled'
 CSS组合器选择器'~'
+
+编辑器：VS CODE
+插件：Easy Less
